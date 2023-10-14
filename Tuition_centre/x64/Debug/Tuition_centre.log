@@ -1,0 +1,6 @@
+﻿  Tuition_centre.cpp
+S:\洗屁屁\Tuition_centre\Tuition_centre\Tutor.h(348,6): warning C4101: 'date_joined': unreferenced local variable
+S:\洗屁屁\Tuition_centre\Tuition_centre\Tutor.h(349,6): warning C4101: 'date_terminated': unreferenced local variable
+S:\洗屁屁\Tuition_centre\Tuition_centre\Tuition_centre.cpp(141,10): warning C4101: 'confirm': unreferenced local variable
+S:\洗屁屁\Tuition_centre\Tuition_centre\Tutor.h(572): warning C4715: 'searchTutor': not all control paths return a value
+  Tuition_centre.vcxproj -> S:\洗屁屁\Tuition_centre\x64\Debug\Tuition_centre.exe
